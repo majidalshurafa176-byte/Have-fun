@@ -1,0 +1,12 @@
+{
+  "custom_block_transformations": {
+    "fully_black_block": {
+      "transformation_type": "manifestation_scare",
+      "description": "Transforms block into a fully black appearance.",
+      "effects": [
+        "darkness_surrounds_player",
+        "visual_representation_change"
+      ]
+    }
+  }
+}
