@@ -1,0 +1,1 @@
+execute as @a at @s run effect give @s minecraft:night_vision 1 1 true; execute as @a at @s run particle minecraft:portal ~ ~ ~ 0.1 0.1 0.1 0 50; execute as @a at @s run playsound minecraft:entity.warden.angry master @s ~ ~ ~ 1 1;
